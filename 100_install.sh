@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install -y scid stockfish xfce4-terminal moka-icon-theme audacious parcellite timeshift pcmanfm
+sudo apt install -y scid stockfish xfce4-terminal moka-icon-theme audacious parcellite timeshift pcmanfm neofetch
 
 ##Install brave###############
 sudo apt install curl
