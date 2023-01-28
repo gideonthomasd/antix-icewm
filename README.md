@@ -10,4 +10,8 @@ Click and change to system tray.
 
 In playlist go to 'Title Format' and change to 'Title-Artist'
 
+Change sound in icon tree to Gnome white
+
+Fire up icewm not rox-icewm
+
 Reboot
