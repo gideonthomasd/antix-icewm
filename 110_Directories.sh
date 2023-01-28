@@ -8,12 +8,18 @@ mkdir -p ~/.icewm
 cp -r * ~/.icewm
 cd ..
 
+mkdir -p ~/.config/jgmenu
+cd jgmenu
+cp -r * ~/.config/jgmenu
+cd ..
+
+
 mkdir ~/Pictures/wallpapers
 cd wallpapers
 cp -r * ~/Pictures/wallpapers
 cd ..
 
-mkdir ~/.config/tint2/scripts
+mkdir -p ~/.config/tint2/scripts
 cp audacious-conky.sh ~/.config/tint2/scripts
 
 cp conkyrc ~/.conkyrc
