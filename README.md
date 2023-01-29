@@ -1,5 +1,7 @@
 # antix-icewm
 
+If nvidia card: Install older kernel.  Then install 4.9. kernel.  Then install nvidia drivers, and reboot to kernel 5.10.
+
 chmod +x *.sh
 
 Do ./100_install.sh then ./110_Directories.sh
