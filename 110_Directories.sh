@@ -13,6 +13,11 @@ cd jgmenu
 cp -r * ~/.config/jgmenu
 cd ..
 
+mkdir -p ~/.config/roxterm.sourceforge.net
+cd roxterm.sourceforge.net
+cp -r * ~/.config/roxterm.sourceforge.net
+cd ..
+
 
 mkdir ~/Pictures/wallpapers
 cd wallpapers
