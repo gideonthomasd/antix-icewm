@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt install -y scid stockfish xfce4-terminal moka-icon-theme audacious parcellite timeshift pcmanfm neofetch
+sudo apt install -y vlc vlc-plugin-fluidsynth vlc-plugin-jack vlc-plugin-svg libdvdcss2
 
 ##Install brave###############
 sudo apt install curl
