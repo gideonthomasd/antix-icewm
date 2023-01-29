@@ -76,7 +76,7 @@ key "Ctrl+Space" app-select
 
 # suggested
 key "Alt+F2" gexec
-key "Super+Return" xfce4-terminal
+key "Super+Return" roxterm
 key "F12" pcmanfm
 key "Super+x" desktop-session-exit
 key "Super+d" jgmenu_run
