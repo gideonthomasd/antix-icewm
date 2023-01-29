@@ -16,4 +16,6 @@ Fire up icewm not rox-icewm
 
 In Login Manager change to 'Dark City' and username
 
+If there are sound problems then sudo apt install pulseaudio (pavucontrol).  Then in terminal do pulseaudio --start
+
 Reboot
