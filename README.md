@@ -14,4 +14,6 @@ Change sound in icon tree to Gnome white
 
 Fire up icewm not rox-icewm
 
+In Login Manager change to 'Dark City' and username
+
 Reboot
