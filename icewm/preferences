@@ -1047,7 +1047,7 @@ TitleFontNameXft="sans-serif:size=9"
 # ClockFontName="-*-monospace-medium-r-*-*-*-140-*-*-*-*-*-*"
 
 #  Name of the task bar clock font.
-# ClockFontNameXft="monospace:size=11"
+ClockFontNameXft="monospace:size=12"
 
 #  Name of the task bar temperature font.
 # TempFontName="-*-monospace-medium-r-*-*-*-140-*-*-*-*-*-*"
