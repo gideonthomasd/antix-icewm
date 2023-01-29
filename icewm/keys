@@ -82,6 +82,8 @@ key "Super+x" desktop-session-exit
 key "Super+d" jgmenu_run
 #key "Super+w" wingrid-close.sh
 key "Super+w" wmctrl -c :ACTIVE:
+key "Super+F3" lxtask
+key "Super+F1" firefox-esr
 
 #key "Super+1" KeySysWorkspace1
 
