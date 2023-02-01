@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install -y bspwm sxhkd polybar
+sudo apt install -y bspwm sxhkd polybar rofi
 
 mkdir -p ~/.config/sxhkd
 mkdir -p ~/.config/bspwm
